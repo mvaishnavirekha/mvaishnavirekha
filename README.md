@@ -1,11 +1,11 @@
-Hi there, I'm Vaishnavi Rekha! 👋
+Hi there, I'm Vaishnavi Rekha! 
 
-👩‍💻 Computer Science & Engineering Student @ Vignan Nirula
+Computer Science & Engineering Student @ Vignan Nirula
 I am a passionate B.Tech student specializing in Computer Science and Engineering. I focus on backend development, designing scalable microservices, and building intelligent AI automation frameworks that bridge natural human interactions with structured enterprise systems.
 
 ---
 
-🛠️ Technical Skill Matrix
+Technical Skill Matrix
 
 | Domain | Core Technologies & Frameworks |
 | :--- | :--- |
@@ -16,27 +16,27 @@ I am a passionate B.Tech student specializing in Computer Science and Engineerin
 
 ---
 
-🚀 Featured Engineering Projects
+Featured Engineering Projects
 
-🤖 SentraSecureX AI Telegram Automation
+SentraSecureX AI Telegram Automation
 * **Description:** An enterprise-grade AI Security Assistant deployment that handles client consulting requests live over Telegram.
 * **Key Features:** Implemented server-side contextual turn-memory, bound strict response schemas using Gemini 3.5 Flash, and engineered automated disk serialization hooks (`leads.json`) upon data validation checkpoints.
 * **Tech Stack:** Node.js, Express, TypeScript, `@google/genai`, Telegram Bot API.
 
-💬 SentraSecureX WhatsApp Intelligent Loop *(In Development)*
+SentraSecureX WhatsApp Intelligent Loop *(In Development)*
 * **Description:** Designing a backend service layer to interpret customer telemetry and log business leads seamlessly via WhatsApp messaging endpoints.
 * **Tech Stack:** Node.js, Express, Twilio API / WhatsApp Cloud API, Gemini.
 
 ---
 
-📈 My Coding Journey
-* 🎓 Currently pursuing my Bachelor of Technology in CSE (Expected 2028).
-* ⚙️ Completed a comprehensive technical diploma post-10th grade, providing a strong hands-on foundation in engineering principles.
-* 🚀 Constantly learning new paradigms to optimize data flow layers and neural model boundaries.
+My Coding Journey
+* Currently pursuing my Bachelor of Technology in CSE (Expected 2028).
+* Completed a comprehensive technical diploma post-10th grade, providing a strong hands-on foundation in engineering principles.
+* Constantly learning new paradigms to optimize data flow layers and neural model boundaries.
 
 ---
 
-📫 Connect With Me
+Connect With Me
 * 📧 **Email:** mvaishnavirekha@gmail.com
 
 <!--
